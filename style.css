@@ -1,0 +1,28 @@
+@font-face{
+    src: url('/fonts/Roboto/Roboto-Light.ttf');
+    font-family: 'Roboto';
+}
+body{
+   font-family: 'Roboto', sans-serif; 
+}
+header{
+    background-image: url('img/lemon-pie.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 40%;
+    background-attachment: fixed;
+    height: 300px;
+}
+h1{
+    color: white;
+}
+
+h2{
+    font-weight: bolder;
+}
+
+footer{
+    background-color: lightslategrey;
+    color: white;
+    text-align: center;
+}
